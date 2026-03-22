@@ -1,5 +1,9 @@
 <div align="center">
-
+  
+<img src="https://firebasestorage.googleapis.com/v0/b/studio-2485017160-607e3.firebasestorage.app/o/Logos%2Ficon.png?alt=media&token=30f53dcf-51c5-4276-b6c1-59fff814ff4b" alt="Gogure Interactive Logo" width="120" />
+ 
+<br /><br />
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=3000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+everyone.+Private+for+you.+Personal+at+its+core." alt="Tagline" />
 
 # Gogure Interactive
