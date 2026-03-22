@@ -2,15 +2,15 @@
 
   
 <img src="https://firebasestorage.googleapis.com/v0/b/studio-2485017160-607e3.firebasestorage.app/o/Logos%2Ficon.png?alt=media&token=30f53dcf-51c5-4276-b6c1-59fff814ff4b" alt="Gogure Interactive Logo" width="120" />
+
+<br>
+
 # Gogure Interactive
 
 **We build software that respects you.**  
 Free. Private. Personal.
 
 <br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=3000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+everyone.+Private+for+you.+Personal+at+its+core." alt="Tagline" />
-
 
 [![Website](https://img.shields.io/badge/gogure.de-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://gogure.de)
 [![License](https://img.shields.io/badge/Open%20Source-MIT%20%26%20Free-5865F2?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://gogure.de)
